@@ -3,7 +3,7 @@
 🎓 Estudiante de Ingeniería en Ciencia de Datos  
 💻 Experiencia como FullStack Developer en .NET  
 📊 Apasionada por el análisis, la minería de datos y el machine learning  
-📍 España  
+📍 España / Valencia  
 🔗 [LinkedIn](https://www.linkedin.com/in/miriamgimenofernandez7289/)
 
 ---
