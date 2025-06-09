@@ -52,6 +52,16 @@ Durante el último semestre he cursado dos asignaturas clave:
 - Control de versiones con `Git`, despliegues en producción  
 - Colaboración con equipos multifuncionales mediante `Jira`, `Azure DevOps`, `Confluence`
 
+### 📊 Contable – Bland Group
+> *ago. 2019 – jul. 2023 (4 años)*
+
+- Gestión integral del área contable vinculada a ventas, ingresos y facturación.
+- Elaboración de reportes estadísticos sobre ventas y análisis de ingresos por segmentos, productos y tendencias temporales.
+- Control y conciliación de cuentas asociadas a clientes y facturación, incluyendo resolución de incidencias.
+- Preparación de documentación para auditorías y soporte al contralor financiero.
+  
+  Esta experiencia fortaleció mi perfil analítico y despertó mi interés por la ciencia de datos aplicada al mundo empresarial.
+
 ---
 
 ## 🧰 Stack actual
