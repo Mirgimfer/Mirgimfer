@@ -60,7 +60,7 @@ Durante el último semestre he cursado dos asignaturas clave:
 - Control y conciliación de cuentas asociadas a clientes y facturación, incluyendo resolución de incidencias.
 - Preparación de documentación para auditorías y soporte al contralor financiero.
   
-  Esta experiencia fortaleció mi perfil analítico y despertó mi interés por la ciencia de datos aplicada al mundo empresarial.
+  Esta experiencia fortaleció mi perfil analítico y despertó mi interés por la ciencia de datos.
 
 ---
 
