@@ -45,8 +45,9 @@ Durante el último semestre he cursado dos asignaturas clave:
 
 ## 💼 Experiencia técnica
 
-### 👩‍💻 FullStack Developer (.NET) – BG Tec  
+### 👩‍💻 FullStack Developer (.NET) – BG Tec (Bland Group)
 > *ago. 2023 – feb. 2025 (1 año y 7 meses)*
+> *Gibraltar*
 
 - Desarrollo de aplicaciones web con `.NET`, `C#` y `SQL Server`  
 - Control de versiones con `Git`, despliegues en producción  
@@ -54,6 +55,7 @@ Durante el último semestre he cursado dos asignaturas clave:
 
 ### 📊 Contable – Bland Group
 > *ago. 2019 – jul. 2023 (4 años)*
+> *Gibraltar*
 
 - Gestión integral del área contable vinculada a ventas, ingresos y facturación.
 - Elaboración de reportes estadísticos sobre ventas y análisis de ingresos por segmentos, productos y tendencias temporales.
